@@ -1,0 +1,23 @@
+{
+  "name": "calanooka-api",
+  "version": "1.0.0",
+  "description": "chroma-css-wiki",
+  "main": "listen.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node listen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlieMartece/Calanooka-API.git"
+  },
+  "author": "Carlie Nooka Martece",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/CarlieMartece/Calanooka-API/issues"
+  },
+  "homepage": "https://github.com/CarlieMartece/Calanooka-API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
