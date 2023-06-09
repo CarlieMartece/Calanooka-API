@@ -294,9 +294,21 @@ module.exports = [
         pronouns: "He/him",
         birthYear: "GE2264",
         presentColour: "Pyrish gold with pale peach streaks",
-        address: "Caber Practice, Amimia Square, DarkStar Vale", 
+        address: "Gold Practice, Amimia Square, DarkStar Vale", 
         family: "Unknown",
         bio: "Village doctor and council member. Inherited the town practice from a Godish doctor who mysteriously disappeared. Gets enraged by unhealthy, counter-cultural lifestyle choices, like a twat.",
+        dies: true
+    },
+    {
+        name: "Lucia Storo",
+        firstBook: 1,
+        firstChapter: 16,
+        pronouns: "She/her",
+        birthYear: "GE2244",
+        presentColour: "Pyrish gold with pale peach stripes",
+        address: "Sylvester's Convenience Store, Amimia Square, DarkStar Vale",
+        family: "Sylvester Storo (husband), Proctra Storo (daughter)",
+        bio: "Bored housewife hooked on prescription sedatives. Member of the village council. Drinks a lot of tea.",
         dies: true
     },
     {
@@ -317,7 +329,7 @@ module.exports = [
         firstChapter: 18,
         pronouns: "She/her",
         birthYear: "GE2276",
-        presentColour: "Turquoise",
+        presentColour: "Beshper blue with green fade",
         address: "16 River Road, DarkStar Vale",
         family: "Cometina Kalsha (sister), Clark Kalsha (father)",
         bio: "Naïve hippy chick with complex mental health issues who writes strange poetry. Both Michelle and Ray are drawn to her otherworldly energy. Sanctuary Circle is safer for her than Temple Coven.",
