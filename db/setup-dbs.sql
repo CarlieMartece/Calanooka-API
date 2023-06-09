@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS calanooka;
+CREATE DATABASE calanooka;
+
+DROP DATABASE IF EXISTS calanooka_test;
+CREATE DATABASE calanooka_test;
