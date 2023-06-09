@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/CarlieMartece/Calanooka-API#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.3.3"
   }
 }
